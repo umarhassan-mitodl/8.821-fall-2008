@@ -6,6 +6,8 @@ description: Lecture notes on supersymmetric Lagrangians, SUSY Lagrangians, supe
 file: /courses/8-821-string-theory-fall-2008/af966809bba8f11cacf5f4e88d75ed1d_lecture06.pdf
 file_size: 212298
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

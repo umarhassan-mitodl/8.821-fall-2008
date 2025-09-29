@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides some topic suggestions.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -18,7 +20,7 @@ An appropriate topic could also be a system that you think may be amenable to st
 
 Your goal in deciding what to say should be to try to save the rest of us from having to read the papers. Give some context, say what the crucial point is, say what the implications are.
 
-If you are planning to give a talk, I can't recommend highly enough the advice from {{% resource_link "aeae77d3-7c31-4c4f-977e-95893290cdb9" "Geroch, gr-qc/9703019" %}}.
+If you are planning to give a talk, I can't recommend highly enough the advice from [Geroch, gr-qc/9703019](http://arxiv.org/abs/gr-qc/9703019).
 
 Below are some topic suggestions, involving wildly varying levels of difficulty. The list is certainly not in any sense exhaustive. Creative topics are encouraged.
 

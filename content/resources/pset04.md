@@ -5,6 +5,8 @@ description: "Problem set on fields in AdS, Schr\xF6dinger description of AdS in
 file: /courses/8-821-string-theory-fall-2008/21859d0b896e986df437b278d0038053_pset04.pdf
 file_size: 114239
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

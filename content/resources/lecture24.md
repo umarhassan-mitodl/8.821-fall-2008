@@ -5,6 +5,8 @@ description: Lecture notes on classical black hole thermodynamics and quantum bl
 file: /courses/8-821-string-theory-fall-2008/a3e418ff0049144b2a70f4c8bdd5d8d1_lecture24.pdf
 file_size: 199018
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

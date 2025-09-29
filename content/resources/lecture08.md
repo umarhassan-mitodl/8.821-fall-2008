@@ -5,6 +5,8 @@ description: "Lecture notes on large N scaling in the t\u2019 Hooft limit of qua
 file: /courses/8-821-string-theory-fall-2008/e9cb1e45a51bfc887b72accb2486d034_lecture08.pdf
 file_size: 238548
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

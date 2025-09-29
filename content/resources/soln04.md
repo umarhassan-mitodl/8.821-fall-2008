@@ -6,6 +6,8 @@ description: "Solutions to a problem set on fields in AdS, Schr\xF6dinger descri
 file: /courses/8-821-string-theory-fall-2008/3eac34a102df34d001b9e721b2302922_soln04.pdf
 file_size: 273453
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: Annotated list of suggested topics for the end of term project, a h
 file: /courses/8-821-string-theory-fall-2008/347f8e896c34f40e57d77ded14a52b6f_endtrm_fin.pdf
 file_size: 81677
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

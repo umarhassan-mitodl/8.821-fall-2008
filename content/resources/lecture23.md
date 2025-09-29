@@ -5,6 +5,8 @@ description: Lecture notes on the laws of black hole thermodynamics and how AdS 
 file: /courses/8-821-string-theory-fall-2008/c9cb6d23481b7450aaa996bbf2ebc16d_lecture23.pdf
 file_size: 115003
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

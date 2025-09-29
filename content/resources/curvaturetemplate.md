@@ -5,6 +5,8 @@ description: Template for curvature calculations in Mathematica, provided as a s
 file: /courses/8-821-string-theory-fall-2008/01b9f467d41140819b148535e5932f60_curvaturetemplate.nb
 file_size: 42915
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

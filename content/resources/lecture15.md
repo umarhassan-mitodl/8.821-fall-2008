@@ -6,6 +6,8 @@ description: Lecture notes on 2-point functions in P-space, some real-time issue
 file: /courses/8-821-string-theory-fall-2008/6da5e974c4b04023f5dfa82875de834f_lecture15.pdf
 file_size: 206490
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

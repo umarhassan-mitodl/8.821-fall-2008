@@ -5,6 +5,8 @@ description: Lecture notes on masses of fields, dimensions of operators, and the
 file: /courses/8-821-string-theory-fall-2008/a7c18070db260c88a6fe9080afabc659_lecture13.pdf
 file_size: 132821
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

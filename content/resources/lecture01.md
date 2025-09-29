@@ -4,6 +4,8 @@ description: Lecture notes with an introduction to string theory.
 file: /courses/8-821-string-theory-fall-2008/829a382e2a755917efbfc190507e51df_lecture01.pdf
 file_size: 249941
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

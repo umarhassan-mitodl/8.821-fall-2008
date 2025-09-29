@@ -6,6 +6,8 @@ description: "Lecture notes on black holes, the Schwarzchild BH, the cosmic cens
 file: /courses/8-821-string-theory-fall-2008/ea42d2182b4a78c0501b2577a5478572_lecture22.pdf
 file_size: 188361
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

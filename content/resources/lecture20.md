@@ -5,6 +5,8 @@ description: Lecture notes on gauge gravity duality, non-spherical horizons, Dp-
 file: /courses/8-821-string-theory-fall-2008/83dc0482e297f2ec6f03932553411230_lecture20.pdf
 file_size: 162872
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

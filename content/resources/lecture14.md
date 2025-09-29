@@ -5,6 +5,8 @@ description: "Lecture notes on the wave equation in AdS, Witten's method, k-spac
 file: /courses/8-821-string-theory-fall-2008/8caef2b2fd460cd03dde5d4700041ee0_lecture14.pdf
 file_size: 185054
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

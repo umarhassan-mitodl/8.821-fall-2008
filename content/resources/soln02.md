@@ -5,6 +5,8 @@ description: "Solutions to a problem set on how to remember the N = 4 action, th
 file: /courses/8-821-string-theory-fall-2008/946c81955784aacd7e6565e81c7f6b1f_soln02.pdf
 file_size: 279335
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

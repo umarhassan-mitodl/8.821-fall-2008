@@ -5,6 +5,8 @@ description: Lecture notes on pointlike probes of the bulk, geometric optics thr
 file: /courses/8-821-string-theory-fall-2008/078974bf19381340cab50a86fc8cc89f_lecture19.pdf
 file_size: 173070
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: "Lecture notes on AdS\u2013CFT correspondence, string theory from g
 file: /courses/8-821-string-theory-fall-2008/a13b3444c1e2926aca5f25bdda522bc6_lecture07.pdf
 file_size: 203669
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

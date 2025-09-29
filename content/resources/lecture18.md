@@ -6,6 +6,8 @@ description: "Lecture notes on minimum surfaces, Wilson loops, quark-antiquark p
 file: /courses/8-821-string-theory-fall-2008/deb6ad4ba42bb173e8e403f4b8acb73f_lecture18.pdf
 file_size: 210777
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

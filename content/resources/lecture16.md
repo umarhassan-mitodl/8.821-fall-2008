@@ -6,6 +6,8 @@ description: Lecture notes on correlators of more than two operators, 3-point fu
 file: /courses/8-821-string-theory-fall-2008/2f8805397ee8506926404a60d8d677d2_lecture16.pdf
 file_size: 277203
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

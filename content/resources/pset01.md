@@ -5,6 +5,8 @@ description: Problem set on branes ending on branes, timelike oscillators, the e
 file: /courses/8-821-string-theory-fall-2008/3dc562d082f837011570ff565a84bef0_pset01.pdf
 file_size: 104423
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
