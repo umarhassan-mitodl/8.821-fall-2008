@@ -11,25 +11,25 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-[Third Law of Black-Hole Dynamics: A Formulation and Proof](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.57.397): This paper formulates and proves a precise version of the third law for black holes. A proof of the Zeroth Law can be found in Wald, GR, pp. 333-334.
+{{% resource_link "1d6f82a9-1426-4d86-b233-6f041380bd03" "Third Law of Black-Hole Dynamics: A Formulation and Proof" %}}: This paper formulates and proves a precise version of the third law for black holes. A proof of the Zeroth Law can be found in Wald, GR, pp. 333-334.
 
-[The String Landscape, Black Holes and Gravity as the Weakest Force](http://arxiv.org/abs/hep-th/0601001): This is a paper which says something interesting about arbitrarily-weakly-gauged symmetries and black holes.
+{{% resource_link "eb18d302-cf9c-48d5-8f51-b5e74839f4bf" "The String Landscape, Black Holes and Gravity as the Weakest Force" %}}: This is a paper which says something interesting about arbitrarily-weakly-gauged symmetries and black holes.
 
-[UV/IR Relations in AdS Dynamics](http://arxiv.org/abs/hep-th/9809022): This paper has some thoughtful discussion of the relationship between the radial coordinate of AdS and various energy scales in the field theory.
+{{% resource_link "86238405-2555-44aa-84a3-b192c1dd195c" "UV/IR Relations in AdS Dynamics" %}}: This paper has some thoughtful discussion of the relationship between the radial coordinate of AdS and various energy scales in the field theory.
 
-[Aspects of Large N Gauge Theory Dynamics as seen by String Theory](http://arxiv.org/abs/hep-th/9805129) (section 4) and [All-Genus Calculation of Wilson Loops using D-branes](http://arxiv.org/abs/hep-th/0501109): These two papers describe bulk calculations of Wilson loops in representations other than the fundamental.
+{{% resource_link "22e7f8cd-fa1f-42f1-b7a2-eed3f231df20" "Aspects of Large N Gauge Theory Dynamics as seen by String Theory" %}} (section 4) and {{% resource_link "a79b94b2-3b39-401a-9b8a-bd93df43f6dd" "All-Genus Calculation of Wilson Loops using D-branes" %}}: These two papers describe bulk calculations of Wilson loops in representations other than the fundamental.
 
-[Scale and Conformal Invariance in Quantum Field Theory](http://dx.doi.org/10.1016/0550-3213%2888%2990179-4): This is the Polchinski paper about the relation between scale invariance and conformal invariance.
+{{% resource_link "36137f74-6c7d-448d-9203-8fd8667cb11a" "Scale and Conformal Invariance in Quantum Field Theory" %}}: This is the Polchinski paper about the relation between scale invariance and conformal invariance.
 
-Pointlike Structures Inside and Outside Hadrons: Coleman's \`1/N' paper ([PDF - 1.3 MB](http://link.springer.com/book/10.1007%2F978-1-4684-1065-5)){{< sup "#" >}}
+Pointlike Structures Inside and Outside Hadrons: Coleman's \`1/N' paper ({{% resource_link "ca644fe8-ea0f-4dba-93ee-3f29697a142e" "PDF - 1.3 MB" %}}){{< sup "#" >}}
 
-[Introduction to Conformal Invariance](http://dx.doi.org/10.1111/j.1749-6632.1974.tb20531.x): Callan's review of conformal symmetry in QFT
+{{% resource_link "9e39f348-37fe-4e09-9c7d-07c8b530a8e8" "Introduction to Conformal Invariance" %}}: Callan's review of conformal symmetry in QFT
 
-Supersymmetry and Non-perturbative Beta Functions: This is a non-perturbative proof of the vanishing of the beta function of the N=4 SYM theory ([PDF](http://dx.doi.org/10.1016/0370-2693%2888)91265-8   
+Supersymmetry and Non-perturbative Beta Functions: This is a non-perturbative proof of the vanishing of the beta function of the N=4 SYM theory ({{% resource_link "241e3933-2e49-41ae-8eac-8a4241411064" "PDF" %}}91265-8   
 )){{< sup "#" >}}
 
-[Comments on Higher Derivative Operators in Some SUSY Field Theories](http://arxiv.org/abs/hep-th/9705057): This is a discussion of a nonzero supersymmetric higher-dimension correction to the effective action.
+{{% resource_link "e93509a1-5f9d-486a-9d69-bc9c3ed6868d" "Comments on Higher Derivative Operators in Some SUSY Field Theories" %}}: This is a discussion of a nonzero supersymmetric higher-dimension correction to the effective action.
 
-[The Weinberg-Witten Theorem on Massless Particles](https://pure.mpg.de/rest/items/item_33005/component/file_33006/content): This is a review of the Weinberg-Witten theorem.
+{{% resource_link "33fc6e6e-6213-4950-ab50-d27931ba0807" "The Weinberg-Witten Theorem on Massless Particles" %}}: This is a review of the Weinberg-Witten theorem.
 
-[Topics in Particle Physics and Cosmology Beyond the Standard Model](http://arxiv.org/abs/hep-th/0607239): Alejandro Jenkins' thesis, chapter 2, is another review of the Weinberg-Witten theorem.
+{{% resource_link "33263f2e-9a98-451b-9bb7-d9ab26544b5a" "Topics in Particle Physics and Cosmology Beyond the Standard Model" %}}: Alejandro Jenkins' thesis, chapter 2, is another review of the Weinberg-Witten theorem.
