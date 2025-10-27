@@ -5,8 +5,6 @@ description: Lecture notes on classical field theories in greater than 2 spaceti
 file: /courses/8-821-string-theory-fall-2008/0d1bda106dfd2af510daf14b261c56fb_lecture10.pdf
 file_size: 171587
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

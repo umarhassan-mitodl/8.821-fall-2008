@@ -4,8 +4,6 @@ description: Problem set on conformal invariance, large N, and geometry of AdS.
 file: /courses/8-821-string-theory-fall-2008/72638bd04f1aa94b59d9d1feb745ac91_pset03.pdf
 file_size: 90674
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

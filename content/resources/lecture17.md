@@ -5,8 +5,6 @@ description: Lecture notes on calculation of 3-point functions, the chiral anoma
 file: /courses/8-821-string-theory-fall-2008/f704cfed444c1740427310905d04042d_lecture17.pdf
 file_size: 248245
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

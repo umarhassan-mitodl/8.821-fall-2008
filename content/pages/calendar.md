@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides the topic wise distribution of sessions.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

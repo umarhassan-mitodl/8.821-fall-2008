@@ -5,8 +5,6 @@ description: "Problem set on how to remember the N = 4 action, the Bogomol'nyi\u
 file: /courses/8-821-string-theory-fall-2008/fb813f7f8eb1c6c5fbc0682b3ebc6ddf_pset02.pdf
 file_size: 96570
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

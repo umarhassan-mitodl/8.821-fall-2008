@@ -6,8 +6,6 @@ description: Lecture notes on scale and conformal invariance in field theory, em
 file: /courses/8-821-string-theory-fall-2008/a9489a562dc17c13491aab189b92f012_lecture09.pdf
 file_size: 186981
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

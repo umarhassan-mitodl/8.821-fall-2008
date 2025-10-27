@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides course specific problem sets and their solutions.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -88,4 +86,4 @@ Problem set 6 ({{% resource_link 248fc0b9-051e-55a1-1af8-a2aa13a55065 "PDF" %}})
 
 Template for curvature calculations in mathematica, curvaturetemplate.nb ({{% resource_link 01b9f467-d411-4081-9b14-8535e5932f60 "NB" %}})
 
-\* Note: For a hint on problem 1, see pages 100-101 of d'Hoker-Freedman for a sample tetrad calculation ([PDF - 1.1 MB](http://arxiv.org/PS_cache/hep-th/pdf/0201/0201253v2.pdf))
+\* Note: For a hint on problem 1, see pages 100-101 of d'Hoker-Freedman for a sample tetrad calculation ({{% resource_link "dfc668e0-d597-4443-a9e2-50c1923f6dff" "PDF - 1.1 MB" %}})

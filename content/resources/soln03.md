@@ -5,8 +5,6 @@ description: Solutions to a problem set on conformal invariance, large N, and ge
 file: /courses/8-821-string-theory-fall-2008/358719320647b5a5c15d038acc7c22ed_soln03.pdf
 file_size: 251526
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

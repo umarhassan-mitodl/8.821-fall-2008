@@ -7,8 +7,6 @@ description: Lecture notes on hindsight derivation, the Weinberg-Witten theorem,
 file: /courses/8-821-string-theory-fall-2008/22f010a84df39d4448ec5ff59382413d_lecture04.pdf
 file_size: 160094
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

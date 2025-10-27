@@ -4,8 +4,6 @@ description: Lecture notes on confining geometry, mass gap, and black hole mecha
 file: /courses/8-821-string-theory-fall-2008/a1005e3538578985183f9c5e183e6e87_lecture21.pdf
 file_size: 179793
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
